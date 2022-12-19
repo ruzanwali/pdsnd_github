@@ -8,6 +8,7 @@ Bachshare project
 
 ### Description
 it is backshare project in three cities in newyork
+use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
 
 ### Files used
 files used at 10:03 PM
