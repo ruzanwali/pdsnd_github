@@ -1,5 +1,5 @@
 
-
+# this project use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City,
 import pandas as pd
 import time
 import datetime as dt
@@ -96,6 +96,7 @@ def GPA():
     print("5 out of 3")
 def  Description():
     print("this is my first project for me in data analysis")   
+
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
